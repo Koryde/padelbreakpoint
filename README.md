@@ -40,7 +40,7 @@ Un gameplay accessibile ma tecnico, dove il tempismo conta più della forza, e o
 ## 💬 DevLog
 Segui gli aggiornamenti di sviluppo nel **DevLog pubblico**, aggiornato periodicamente con nuovi step, GIF e screenshot.
 
-📘 [DevLog su GitHub Wiki →](#)
+📘 [DevLog su GitHub Wiki →](#https://github.com/Koryde/padelbreakpoint/blob/cde86a3ef552cc75eaa5b4e9044a0b8430e77824/DEVLOG.md)
 
 ---
 
