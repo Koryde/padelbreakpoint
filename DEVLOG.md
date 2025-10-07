@@ -1,4 +1,4 @@
-# 🧱 Padel BreakPoint — DevLog Pubblico
+# 🧱 Padel BreakPoint — DevLog
 
 Benvenuti nel diario di sviluppo ufficiale di **Padel BreakPoint** 🎾  
 Un progetto indipendente che vuole portare il **padel** nel mondo dei videogiochi, unendo ritmo, tecnica e spettacolo.
