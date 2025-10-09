@@ -69,8 +69,3 @@ Da qui in avanti inizieremo a costruire **i colpi veri e propri**.
 📅 *Ultimo aggiornamento:* 09 Ottobre 2025  
 👤 *Sviluppatore:* Roberto D’Anna  
 🛠️ *Motore:* Unity 2023 LTS (URP)
-
-
-📅 *Ultimo aggiornamento:* 09 Ottobre 2025  
-👤 *Sviluppatore:* Roberto D’Anna  
-🛠️ *Motore:* Unity 2023 LTS (URP)
