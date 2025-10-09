@@ -1,4 +1,11 @@
 # 🎾 Padel BreakPoint  
+![Version](https://img.shields.io/badge/version-pre--alpha-blue)
+![Unity](https://img.shields.io/badge/engine-Unity%202023%20LTS-orange)
+![Status](https://img.shields.io/badge/status-active-success)
+![Last%20update](https://img.shields.io/badge/updated-09%20Oct%202025-lightgrey)
+![License](https://img.shields.io/badge/license-proprietary-red)
+
+# 🎾 Padel BreakPoint  
 **Game. Set. Match.**  
 Un videogioco di padel 3D in sviluppo, pensato per partite rapide, colpi spettacolari e un ritmo adrenalinico.  
 
