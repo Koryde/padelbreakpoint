@@ -36,6 +36,8 @@ Seguici per nuovi aggiornamenti, GIF e prototipi nelle prossime settimane!
 
 ---
 
-📅 *Ultimo aggiornamento:* 07 Ottobre 2025  
+## 🗓️ Giorno 2 – “Il giocatore entra in campo” (09/10/2025)
+
+📅 *Ultimo aggiornamento:* 09 Ottobre 2025  
 👤 *Sviluppatore:* Roberto D’Anna  
 🛠️ *Motore:* Unity 2023 LTS (URP)
