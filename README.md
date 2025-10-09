@@ -5,7 +5,6 @@
 ![Last%20update](https://img.shields.io/badge/updated-09%20Oct%202025-lightgrey)
 ![License](https://img.shields.io/badge/license-proprietary-red)
 
----
 
 **Game. Set. Match.**  
 Un videogioco di padel 3D in sviluppo, pensato per partite rapide, colpi spettacolari e un ritmo adrenalinico.  
