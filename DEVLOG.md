@@ -29,13 +29,6 @@ Verranno testati i primi movimenti e direzioni di colpo.
 
 ---
 
-## 💬 Note sul progetto
-Padel BreakPoint è sviluppato da **Roberto D’Anna**, con l’obiettivo di creare un titolo sportivo accessibile ma tecnico, dove ogni colpo ha peso e personalità.
-
-Seguici per nuovi aggiornamenti, GIF e prototipi nelle prossime settimane!
-
----
-
 ## 🗓️ Giorno 2 — “Il giocatore entra in campo” (09/10/2025)
 
 Dopo aver dato vita alla palla, oggi il focus è stato sul **giocatore** e sul **controllo della scena**.  
@@ -65,6 +58,15 @@ Da qui in avanti inizieremo a costruire **i colpi veri e propri**.
 - Creare il sistema di **ShotHandler** (carica, rilascio e forza del colpo).  
 - Collegare il mirino alla **traiettoria della palla**.  
 - Aggiungere i primi **feedback visivi** (colori del colpo, forza, effetto).
+
+---
+
+## 💬 Note sul progetto
+Padel BreakPoint è sviluppato da **Roberto D’Anna**, con l’obiettivo di creare un titolo sportivo accessibile ma tecnico, dove ogni colpo ha peso e personalità.
+
+Seguici per nuovi aggiornamenti, GIF e prototipi nelle prossime settimane!
+
+---
 
 📅 *Ultimo aggiornamento:* 09 Ottobre 2025  
 👤 *Sviluppatore:* Roberto D’Anna  
